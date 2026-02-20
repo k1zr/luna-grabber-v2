@@ -1,3 +1,3 @@
 # luna-grabber-v2
 
-*use it by your responsiblity*
+*use it by your responsibility*
